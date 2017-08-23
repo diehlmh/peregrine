@@ -1,0 +1,58 @@
+
+<body>
+<header>
+	<a href="index.html" id="logo" >
+		<h1>Peregrine Construction Group</h1>
+		<h2>Established 1989</h2>
+    
+   	</a>
+
+	<nav>
+		<ul>
+			<li><a href="index.html" >Portfolio</a></li>
+			<li><a href="about.html" class="selected">About</a></li>
+			<li><a href="contact.html">Contact</a></li>
+		</ul>
+	</nav>
+</header>
+
+<div id="wrapper">
+	<section>
+       <ul>
+         <h1 id="services">Services</h1>
+         <h1 id="about">General Contractor & Project management
+        </h1> 
+            <p>MHIC Licensed GC in Maryland. Project coordination & management of residential & light commercial</p> 
+      </ul>
+    <ul >
+         <h1 id="about">Specialty Hardware</h1> 
+            <p>Knowledge & Installations of Specialty Hardware for structure, cabinetry, doors & millwork</p> 
+      </ul>
+    
+      <ul >
+         <h1 id="about">Special Construction</h1> 
+            <p>Historic Renovation & Restoration including installations of doors, windows, millwork & structure modifications</p> 
+      </ul>
+    
+    <ul >
+         <h1 id="about">Special Finishes</h1> 
+            <p>Application of Marine & Cabinetry finishes ranging from Marine urethane & varnishes to conversion varnishes for interior millwork</p> 
+      </ul>
+    
+    <ul >
+         <h1 id="about">Custom Millwork</h1> 
+            <p>Fabrication in our full woodworking warehouse facility of millwork, cabinetry & furniture for residential, commercial & marine</p> 
+      </ul>
+    
+    
+    </section>
+    
+    <footer >
+    <a href="http://facebook.com/peregrineconstruction"><img src="http://assets.oxfordclub.com.s3.amazonaws.com/emails/images/icon_big_facebook.png" alt="Facebook Logo" class="social-icon"/></a>
+    
+    <p>&copy; 2017 Peregrine Construction Group</p>
+    
+     </footer>
+</div>
+</body>
+</html>
