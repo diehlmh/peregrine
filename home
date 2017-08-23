@@ -1,0 +1,64 @@
+
+<body>
+<header>
+	<a href="index.html" id="logo" >
+		<h1>Peregrine Construction Group</h1>
+		<h2>Established 1989</h2>
+    
+   	</a>
+
+	<nav>
+		<ul>
+			<li><a href="index.html" class="selected">Portfolio</a></li>
+			<li><a href="about.html">About</a></li>
+			<li><a href="contact.html">Contact</a></li>
+		</ul>
+	</nav>
+</header>
+
+<div id="wrapper">
+	<section>
+        <ul id="gallery">
+            <li>
+                <a href="img/numbers-01.jpg">
+                <img src="http://assets.oxfordclub.com.s3.amazonaws.com/emails/images/Smart_Glasses-150.jpg" alt="Image 1" />
+                <p>Image 1</p>
+                </a>
+            </li>
+            <li>
+                <a href="img/numbers-01.jpg">
+                <img src="http://assets.oxfordclub.com.s3.amazonaws.com/emails/images/Smart_Glasses-150.jpg" alt="Image 2" />
+                <p>Image 2</p>
+                </a>
+            </li>
+            <li>
+                <a href="img/numbers-01.jpg">
+                <img src="http://assets.oxfordclub.com.s3.amazonaws.com/emails/images/Smart_Glasses-150.jpg" alt="Image 2" />
+                <p>Image 3</p>
+                </a>
+            </li>
+            <li>
+                <a href="img/numbers-01.jpg">
+                <img src="http://assets.oxfordclub.com.s3.amazonaws.com/emails/images/Smart_Glasses-150.jpg" alt="Image 4" />
+                <p>Image 4</p>
+                </a>
+            </li>
+            <li>
+                <a href="http://google.com">
+                <img src="http://assets.oxfordclub.com.s3.amazonaws.com/emails/images/Smart_Glasses-150.jpg" alt="Image 5" />
+                <p>Image 5</p>
+                </a>
+            </li>
+        </ul>
+    
+    </section>
+    
+    <footer >
+    <a href="http://facebook.com/peregrineconstruction"><img src="http://assets.oxfordclub.com.s3.amazonaws.com/emails/images/icon_big_facebook.png" alt="Facebook Logo" class="social-icon"/></a>
+    
+    <p>&copy; 2017 Peregrine Construction Group</p>
+    
+     </footer>
+</div>
+</body>
+</html>
